@@ -2,8 +2,9 @@ GitHub Project Manager
 
 Aplikasi desktop yang powerful dibuat dengan Python dan CustomTkinter untuk mengelola repository GitHub Anda secara efisien. Tool ini mempermudah proses upload banyak proyek ke GitHub sekaligus dan mengelola repository yang sudah ada dengan antarmuka grafis yang intuitif.
 (untuk aplikasi desktop nya ada di folder dist)
-✨ Fitur Utama
 
+
+✨ Fitur Utama
 ###  Upload Proyek Massal
 - **Pembuatan Repository Otomatis**: Membuat repository GitHub untuk banyak proyek sekaligus secara otomatis
 - **Penanganan Duplikat Cerdas**: Otomatis mengganti nama repository jika sudah ada (menambahkan counter)
