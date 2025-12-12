@@ -1,4 +1,4 @@
-('C:\\Users\\hafid\\Documents\\web\\2025-push-repo-python\\build\\index\\PYZ-00.pyz',
+('C:\\Users\\hafid\\Documents\\web\\github-projek-manager\\build\\index\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\hafid\\AppData\\Roaming\\Python\\Python313\\site-packages\\PIL\\__init__.py',
    'PYMODULE'),
